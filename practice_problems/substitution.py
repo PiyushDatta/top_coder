@@ -1,3 +1,5 @@
+"Substitution problem - Easy. Submission and tests passed."
+
 class Substitute:
     def getValue(self, key, code):
         my_dict = {}
